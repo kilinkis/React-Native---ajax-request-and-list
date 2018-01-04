@@ -1,4 +1,4 @@
-# react-native-ajax-request-and-list
+# React Native AJAX Request and List
 React Native project that fetches a list of albums from an API and loops them
 
 Dependencies:
